@@ -1,5 +1,5 @@
 # Open-Source-Contribution
-[![Open Source Contribution Guide](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2F3ZQ5n7Q1Y3ZQ1Y3ZQ1Y3.jpg&w=1920&q=75)](https://hackernoon.com/crushing-your-first-open-source-contribution-the-best-tips-for-beginners)
+[[![Open Source Contribution Guide](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2F3ZQ5n7Q1Y3ZQ1Y3ZQ1Y3.jpg&w=1920&q=75)](https://hackernoon.com/crushing-your-first-open-source-contribution-the-best-tips-for-beginners)](https://hackernoon.imgix.net/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-ha93oju.jpeg?auto=format%2Ccompress&w=3840)
 
 > A practical guide to understanding, contributing to, and growing through Open Source.
 
