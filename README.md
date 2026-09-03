@@ -1,5 +1,5 @@
 # Open-Source-Contribution
-
+https://hackernoon.com/crushing-your-first-open-source-contribution-the-best-tips-for-beginners
 
 > A practical guide to understanding, contributing to, and growing through Open Source.
 
