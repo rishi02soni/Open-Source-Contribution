@@ -1336,6 +1336,8 @@ This guide is focused on helping students move from:
 
 ---
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -1359,3 +1361,5 @@ This guide is focused on helping students move from:
 **Rishi Soni**
 
 </p>
+
+---
