@@ -3,7 +3,8 @@
 
 ---
 <br>
->A practical guide to understanding, contributing to, and growing through Open Source.
+
+```A practical guide to understanding, contributing to, and growing through Open Source.```
 
 Welcome to the **Open Source Contributor Guide** 🚀
 
