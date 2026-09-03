@@ -1334,7 +1334,28 @@ This guide is focused on helping students move from:
 
 <p align="center">
 
-**Made with ❤️ for the Open Source Community**
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishi-soni-28986923b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
+</a>
 
 </p>
-```
+
+<p align="center">
+  Let's connect, collaborate, and grow together in the world of software engineering and open source. 🚀
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Keep Building. Keep Contributing. Keep Learning.
+
+**Rishi Soni**
+
+</p>
