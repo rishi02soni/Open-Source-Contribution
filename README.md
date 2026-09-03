@@ -1,7 +1,8 @@
 # Open-Source-Contribution
 <img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/3db5d3ea-a73e-4413-9f53-b3063a227989" />
---
+
 ---
+<br>
 > A practical guide to understanding, contributing to, and growing through Open Source.
 
 Welcome to the **Open Source Contributor Guide** 🚀
